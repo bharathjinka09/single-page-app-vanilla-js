@@ -1,4 +1,3 @@
-# single-page-app-vanilla-js
+# Single Page App using Vanilla JS (Router without page refresh)
 
-Taken from my YouTube Tutorial:
-https://www.youtube.com/watch?v=6BozpmSjk-Y
+## Run node server.js (or) yarn start
